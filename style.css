@@ -1,0 +1,9 @@
+table, td{
+    border-spacing: 20px 10px ;
+    border: solid rgb(28, 31, 36);    
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    padding: 10px;
+}
