@@ -7,3 +7,7 @@ table, td{
     margin: auto;
     padding: 10px;
 }
+
+body{
+    text-align: justify;
+}
