@@ -1,3 +1,38 @@
+body{
+    background-image: url(hatter.jpg);
+}
+#hatter{
+    background-color: rgb(247, 214, 149);
+    border: rgb(43, 29, 20) 2px solid;
+}
+
+#hatter2{
+    background-color: rgb(247, 214, 149);
+    border: rgb(43, 29, 20) 2px solid;
+    width: 1000px;
+    height: 900px;
+    margin: auto;
+}
+
+.merenylet{
+    width: 400px;
+    border: rgb(90, 68, 55) 2px solid;
+}
+
+.haduzenet{
+    width: 500px;
+    border: rgb(90, 68, 55) 2px solid;
+}
+
+.azsia{
+    width: 600px;
+    border: rgb(90, 68, 55) 2px solid;
+}
+
+hr{
+    border: black 3px solid;
+}
+
 table, td{
     border-spacing: 20px 10px ;
     border: solid rgb(28, 31, 36);    
