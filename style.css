@@ -1,5 +1,6 @@
 body{
     background-image: url(hatter.jpg);
+    text-align: justify;
 }
 #hatter{
     background-color: rgb(247, 214, 149);
@@ -41,8 +42,4 @@ table, td{
     vertical-align: middle;
     margin: auto;
     padding: 10px;
-}
-
-body{
-    text-align: justify;
 }
